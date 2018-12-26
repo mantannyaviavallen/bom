@@ -78,7 +78,7 @@ else
             echo " Gunakan tools dengan bijak"
             echo
             echo " Love u always "
-            echo " -zLucifer"
+            echo " -xsec"
             echo "======================================="
             fi
             let i++
